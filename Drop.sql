@@ -1,0 +1,10 @@
+DROP TRIGGER auto_increment;
+DROP SEQUENCE seq;
+DROP TABLE repariert;
+DROP TABLE auto;
+DROP TABLE motorteil;
+DROP TABLE motor;
+DROP TABLE manager;
+DROP TABLE autotechniker;
+DROP TABLE beaufsichtigt;
+DROP TABLE mitarbeiter;
